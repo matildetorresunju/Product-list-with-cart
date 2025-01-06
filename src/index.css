@@ -1,0 +1,14 @@
+/* index.css */
+
+/* Import base tailwind directives */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Aquí podrías definir styles globales, variables, etc. */
+body {
+  margin: 0;
+  font-family: "Red Hat Text", sans-serif; /* O la que desees */
+  background-color: hsl(20, 50%, 98%); /* Ejemplo */
+  color: hsl(14, 65%, 9%);
+}
