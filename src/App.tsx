@@ -5,7 +5,7 @@ import ProductCard from "./Components/ProductCard";
 import Cart from "./Components/Cart";
 import Modal from "./Components/Modal";
 import useOrder from "./hooks/useOrder";
-import OrderContent from "./Components/orderContent";
+import OrderContent from "./Components/OrderContent";
 
 function App() {
   const {
